@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* simple helpers */
+:root {
+  --ring: 0 0% 0%;
+}
+* { box-sizing: border-box; }
